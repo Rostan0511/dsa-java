@@ -16,5 +16,8 @@ public class Main {
         int[] ros; //decleration of array. ros is getting defined in stack
         ros = new int[5]; //object being created in memory heap initialization
 
+        System.out.println(roll[0]);
     }
 }
+
+// no proof of heap obj whether its continous or not
