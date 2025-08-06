@@ -4,6 +4,15 @@ This repository contains solutions to various **Data Structures and Algorithms**
 
 ---
 
+
+## 🙏 Acknowledgements
+
+This repository is part of my DSA learning journey inspired by [Kunal Kushwaha](https://github.com/kunal-kushwaha)'s open-source contributions and teaching.  
+Check out his amazing [DSA Course on YouTube](https://www.youtube.com/watch?v=ZG7mZt-Tz1Y&list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod).
+
+Special thanks to him and the community that makes learning accessible to everyone. 💙
+
+---
 ## 📂 Topics to Cover
 
 - ✅ Arrays
@@ -31,3 +40,4 @@ src/
 ├── dynamic_programming/
 ├── greedy/
 └── leetcode/
+
