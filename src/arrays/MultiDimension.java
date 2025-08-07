@@ -47,6 +47,7 @@ public class MultiDimension {
         }
 
         // Extra Note:
+        // int [][] zrr = new int[3][]; //adding rows is mandatory
         // Arrays are mutable in Java – changes to elements are reflected.
         // Strings are immutable – any modification returns a new String.
     }
